@@ -9,4 +9,3 @@ each step with error messages. Used tokens to authorize REST actions.
 # Technologies
 JavaScript, Express.js, NodeJS, Mongoose, MongoDB, bcrypt, passportjs, token, models, controllers, routes
 
-# Live Preview
